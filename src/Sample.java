@@ -4,5 +4,6 @@ public class Sample {
         System.out.println("Hello World");
         System.out.println("Welcome to IntelliJ");
         System.out.println("Sample Commit");
+        System.out.println("Rebase");
     }
 }
